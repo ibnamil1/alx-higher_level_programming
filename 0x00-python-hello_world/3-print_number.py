@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 int number = 3
-print(number + "Battery street")
+print(f"{number:d} Battery street")
